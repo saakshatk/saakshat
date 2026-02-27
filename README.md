@@ -1,3 +1,3 @@
 # saakshat
-This is my first git repository
-Author - Saaskaht Kundra
+This is my first git repository.
+Author - Saakshat Kundra
